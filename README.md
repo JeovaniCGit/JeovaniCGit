@@ -57,7 +57,7 @@
 Secure backend API for personal finance management with enterprise-grade authentication.
 
 **Key Features:**
-- Secure authentication and RBAC policy
+- Secure JWT authentication with permissions based authorization
 - Clean architecture
 - Comprehensive test coverage (xUnit)
 - Dockerized PostgreSQL environment
