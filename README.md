@@ -11,13 +11,11 @@
 
 - 🔭 I'm currently working on **Expense Tracker** - A secure backend API for personal finance management
 
-- 🌱 I'm currently learning **Advanced .NET Performance Optimization & Angular Signals**
+- 🌱 Currently building a full **CI/CD pipeline: implemented unit testing, working on integration testing, containerizing with Docker, and planning GitHub Actions for automated testing and Azure deployment (App Service + PostgreSQL)**.
 
 - 💬 Ask me about **C#, .NET Core, Angular, TypeScript, Entity Framework**
 
 - 📫 How to reach me: **jeovani.dev@outlook.com**
-
-- ⚡ Fun fact: **I thrive on refactoring legacy code into clean, modern architectures**
 
 ---
 
@@ -59,8 +57,8 @@
 Secure backend API for personal finance management with enterprise-grade authentication.
 
 **Key Features:**
-- JWT authentication with HttpOnly cookies
-- Clean architecture with repository pattern
+- Secure authentication and RBAC policy
+- Clean architecture
 - Comprehensive test coverage (xUnit)
 - Dockerized PostgreSQL environment
 
